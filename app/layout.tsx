@@ -1,3 +1,4 @@
+import '../styles/global.css';
 import React from 'react';
 import Navigtaion from '../components/navigation';
 import { title } from 'process';
